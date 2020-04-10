@@ -1,0 +1,11 @@
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.exe
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.deps.json
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.runtimeconfig.json
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.runtimeconfig.dev.json
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.dll
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\bin\Release\netcoreapp2.2\win-x64\TicketScheduleJob.pdb
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\obj\Release\netcoreapp2.2\win-x64\TicketScheduleJob.csproj.CoreCompileInputs.cache
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\obj\Release\netcoreapp2.2\win-x64\TicketScheduleJob.AssemblyInfoInputs.cache
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\obj\Release\netcoreapp2.2\win-x64\TicketScheduleJob.AssemblyInfo.cs
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\obj\Release\netcoreapp2.2\win-x64\TicketScheduleJob.dll
+D:\Devesh\Devesh\Ticketing\DotNetCore Console\TicketScheduleJob\TicketScheduleJob\obj\Release\netcoreapp2.2\win-x64\TicketScheduleJob.pdb
